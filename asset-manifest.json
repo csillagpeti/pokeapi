@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/pokeapi/static/js/main.6f6a1fb3.js",
+    "index.html": "/pokeapi/index.html",
+    "main.6f6a1fb3.js.map": "/pokeapi/static/js/main.6f6a1fb3.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6f6a1fb3.js"
+  ]
+}
